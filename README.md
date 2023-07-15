@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+Hola, soy Fabiola Arotinco
+Estudiante de la carrera de Economia de la Pontificia Universidad Catolica del Peru. Me gusta siempre aprender algo nuevo :D
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
