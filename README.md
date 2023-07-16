@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Estudiante universitario | Pontificia Universidad Catolica del Peru | R | Python | Stata | Matlab 
 
 ## About me :sunglasses:
 Estudiante de la carrera de Economia de la Pontificia Universidad Catolica del Peru. Me gusta siempre aprender algo nuevo :D
