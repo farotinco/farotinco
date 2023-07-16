@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-Estudiante universitaria | Pontificia Universidad Católica del Perú | R | Python | Stata | Matlab 
+Estudiante universitaria | 8vo ciclo | Pontificia Universidad Católica del Perú | R | Python | Stata | Matlab 
 
 ## About me :sunglasses:
 Estudiante de la carrera de Economia de la Pontificia Universidad Católica del Perú. Me gusta siempre aprender algo nuevo :D
@@ -33,6 +33,17 @@ Estudiante de la carrera de Economia de la Pontificia Universidad Católica del 
 - Stata
 - Matlab
 
+## My values : ❤️
+- Apasionada
+- Comprometida
+- Responsable
+- Respetuosa
+- Leal
+
+## Experience 
+- Aun no cuento con experiencia laboral.
+- Pero he llevado cursos de Stata, R, Python y Matlab. Me he centrando en apreder nuevas habilidades y técnicas de programación para mejorar mis conocimientos en análisis de datos. Estoy muy interesada en seguir desarrollándote y aprendiendo más sobre R y Stata.
+  
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
