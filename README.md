@@ -40,7 +40,7 @@ Estudiante de la carrera de Economia de la Pontificia Universidad Católica del 
 - Respetuosa
 - Leal
 
-## Experience 
+## Experience 🌱
 - Aun no cuento con experiencia laboral.
 - Pero he llevado cursos de Stata, R, Python y Matlab. Me he centrando en apreder nuevas habilidades y técnicas de programación para mejorar mis conocimientos en análisis de datos. Estoy muy interesada en seguir desarrollándome y aprendiendo más.
   
