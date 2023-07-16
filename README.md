@@ -42,7 +42,7 @@ Estudiante de la carrera de Economia de la Pontificia Universidad Católica del 
 
 ## Experience 
 - Aun no cuento con experiencia laboral.
-- Pero he llevado cursos de Stata, R, Python y Matlab. Me he centrando en apreder nuevas habilidades y técnicas de programación para mejorar mis conocimientos en análisis de datos. Estoy muy interesada en seguir desarrollándote y aprendiendo más sobre R y Stata.
+- Pero he llevado cursos de Stata, R, Python y Matlab. Me he centrando en apreder nuevas habilidades y técnicas de programación para mejorar mis conocimientos en análisis de datos. Estoy muy interesada en seguir desarrollándome y aprendiendo más.
   
 **Languages and Tools:**  
 
