@@ -42,12 +42,7 @@ Estudiante de la carrera de Economia de la Pontificia Universidad Catolica del P
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
-
-<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
-</a>    
+ 
 
 
 <p align="center"> 
