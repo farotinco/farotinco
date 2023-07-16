@@ -33,7 +33,7 @@ Estudiante de la carrera de Economia de la Pontificia Universidad Católica del 
 - Stata
 - Matlab
 
-## My values : ❤️
+## My values ❤️
 - Apasionada
 - Comprometida
 - Responsable
