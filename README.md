@@ -48,4 +48,4 @@ Estudiante de la carrera de Economia de la Pontificia Universidad Católica del 
 
 </div>
 
-⭐️ From [ashwanisng](https://github.com/ashwanisng)
+⭐️ From [farotinco](https://github.com/farotinco)
