@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/Fabiola Arotinco/">farotinco</a> :smiley:
+ # <a href="https://www.linkedin.com/in/Fabiola Arotinco/">Fabiola Arotinco</a> :smiley:
  
  <a href="https://twitter.com/ashwanisng">
   <img align="left" alt="Fabiola Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
