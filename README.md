@@ -22,10 +22,10 @@
 <br/>
 <br/>
 
-Estudiante universitario | Pontificia Universidad Catolica del Peru | R | Python | Stata | Matlab 
+Estudiante universitaria | Pontificia Universidad Católica del Perú | R | Python | Stata | Matlab 
 
 ## About me :sunglasses:
-Estudiante de la carrera de Economia de la Pontificia Universidad Catolica del Peru. Me gusta siempre aprender algo nuevo :D
+Estudiante de la carrera de Economia de la Pontificia Universidad Católica del Perú. Me gusta siempre aprender algo nuevo :D
 
 ## Technologies :fire:
 - Python
