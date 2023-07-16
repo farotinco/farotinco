@@ -44,7 +44,7 @@ Estudiante de la carrera de Economia de la Pontificia Universidad Catolica del P
 <img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
  
 
-### Show some ❤️ by starring some of the repositories!
+### Thank you ❤️
 
 </div>
 
